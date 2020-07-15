@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Kaarthik and I'm 18 y/o webdeveloper and budding UI/UX designer. Love to collaborate with many people :grin:
 <!--
 **Vig-T/Vig-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
