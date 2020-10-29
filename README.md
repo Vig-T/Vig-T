@@ -1,5 +1,4 @@
 
-![Keanu Reeves Hello There GIF](https://raw.githubusercontent.com/smartclash/smartclash/master/keanu.gif)
 
 
 I'm Kaarthik and I'm 18 y/o webdeveloper and budding UI/UX designer. Love to collaborate with many people :grin:
